@@ -1,4 +1,0 @@
-# Mudskipper Quadruped Project
-
-## Introduction
-The hardware for the Mudskipper project utilizes the open-source [Barkour](https://sites.google.com/view/barkour) quadruped platform. This platform was chosen for the performance specifications across joint actuation outputs, as well as dedicated internal computing hardware (Intel NUC)optimal for implementing and testing walking/traversal policies.
