@@ -34,7 +34,7 @@ exoskeletons cannot structurally offload the added weight from the wearer.
 ## Previous Work
 In order to bridge these gaps in the field, and in collaboration with Sandia National Labs (SNL), IHMC is
 developing the powered hip-knee-ankle exoskeleton, Eva, with the purpose of offloading PPE and
-assisting tasks common to tank farm work. The first prototype, or Eva Mk1 (Figure 2.a), featured sagittal
+assisting tasks common to tank farm work. The first prototype, or Eva Mk.1 (Figure 2.a), featured sagittal
 actuated degrees of freedom of the legs (i.e. hip and knee flexion/extension, ankle plantarflexion), as well
 as a suite of onboard sensors for state estimation and control (i.e. IMUs on each linkage, encoders at each
 joint, pressure sensitive insoles). It was directly built around a commercial off-the-shelf (COTS) SCBA
@@ -56,3 +56,8 @@ generation Eva Mk2 exoskeleton, some initial demonstrations of new capabilities,
 to further increase site applicability.
 
 Supplementary material regarding the performance and collected data with the Eva Mk.1 exoskeleton can be found in [Li et. al](LiIROS2023.pdf) and [Winship et. al](WinshipICRA2024.pdf)
+
+## Contributions
+
+In collaborating with a team of engineers on the Eva Mk.1 Project, I was able to provide technical assistance on both the hardware front and controls debugging. Testing reinforcement learning policies for a range of tasks, including but not limited to walking, squatting, stair ascent and descent, and pushing and pulling heavy objects across various time intervals and repetitions. The Mk.1 version of the Eva exoskeleton served as a crucial learning opportunity for improved comprehension of qualitative variables (i.e. comfort, flexibility, interfacing, etc.) which play an important factor to the longevity and utility the user retains from the device while powered.
+
