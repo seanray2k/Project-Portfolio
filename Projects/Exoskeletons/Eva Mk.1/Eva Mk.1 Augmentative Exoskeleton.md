@@ -73,3 +73,7 @@ Supplementary material regarding the performance and collected data with the Eva
 
 In collaborating with a team of engineers on the Eva Mk.1 Project, I was able to provide technical assistance on both the hardware front and controls debugging. Testing reinforcement learning policies for a range of tasks, including but not limited to walking, squatting, stair ascent and descent, and pushing and pulling heavy objects across various time intervals and repetitions. The Mk.1 version of the Eva exoskeleton served as a crucial learning opportunity for improved comprehension of qualitative variables (i.e. comfort, flexibility, interfacing, etc.) which play an important factor to the longevity and utility the user retains from the device while powered.
 
+<div style="display: flex; gap: 2%;">
+  <img src="2024_Eva_Demo_w_status.webp" alt="Image 1" width="99%">
+</div>
+
