@@ -35,7 +35,7 @@ exoskeletons cannot structurally offload the added weight from the wearer.
 
 <div style="display: flex; gap: 2%;">
   <img src="Jared_03_Front_left-1.png" alt="Image 1" width="32%">
-  <img src="Jared_02_left-1.png" alt="Image 2" width="32%">
+  <img src="Jared_02_left-1.png" alt="Image 2" width="34%">
   <img src="Jared_03_Back_left-1.png" alt="Image 3" width="32%">
 </div>
 
