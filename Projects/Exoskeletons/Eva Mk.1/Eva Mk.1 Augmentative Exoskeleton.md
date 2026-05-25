@@ -56,6 +56,12 @@ allowed for testing of numerous body interfacing methods and biological joint co
 Much of this work has been presented at various robotics and DOE conferences throughout the last few
 years.
 
+<div style="display: flex; gap: 2%;">
+  <img src="WholeBody_Front-1.png" alt="Image 1" width="32%">
+  <img src="WholeBody_Right-1.png" alt="Image 2" width="34%">
+  <img src="WholeBodyBack_01-1.png" alt="Image 3" width="32%">
+</div>
+
 These developments were important steps on the path toward realizing a site-fieldable load
 carriage exoskeleton prototype and led to important design improvements to increase the technology
 readiness level (TRL) of Eva. In this paper, we detail these improvements in the development of the next
