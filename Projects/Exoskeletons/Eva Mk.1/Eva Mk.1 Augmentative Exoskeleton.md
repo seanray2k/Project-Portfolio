@@ -15,13 +15,7 @@ To counter this dilemma, the technology can instead be applied to directly targe
   <img src="Jared_03_Back_left-1.png" alt="Image 3" width="32%">
 </div>
 
-In collaboration with Sandia National Labs (SNL), the IHMC exoskeleton group
-developed the powered hip-knee-ankle exoskeleton, Eva, with the purpose of offloading PPE and
-assisting tasks common to tank farm work. The first prototype, or Eva Mk.1 (Figure 2.a), featured sagittal
-actuated degrees of freedom of the legs (i.e. hip and knee flexion/extension, ankle plantarflexion), as well
-as a suite of onboard sensors for state estimation and control (i.e. IMUs on each linkage, encoders at each
-joint, pressure sensitive insoles). It was directly built around a commercial off-the-shelf (COTS) SCBA
-harness, and featured height adjustability in the form of modular carbon fiber linkages.
+In collaboration with Sandia National Labs (SNL), the IHMC exoskeleton group developed the powered hip-knee-ankle exoskeleton, Eva, with the purpose of offloading PPE and assisting tasks common to tank farm work. The first prototype, or Eva Mk.1, featured sagittal actuated degrees of freedom of the legs (i.e. hip and knee flexion/extension, ankle plantarflexion), as well as a suite of onboard sensors for state estimation and control (i.e. IMUs on each linkage, encoders at each joint, pressure sensitive insoles). The device was directly built around a commercial off-the-shelf SCBA harness, and featured height adjustability in the form of modular carbon fiber linkages.
 
 Eva Mk.1 served as a testbed for task-agnostic gravity compensation control designed to offload
 the weight of the exoskeleton and SCBA from the user regardless of posture [9], [10], task-specific
