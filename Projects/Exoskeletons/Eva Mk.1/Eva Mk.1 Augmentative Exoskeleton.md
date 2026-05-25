@@ -55,4 +55,4 @@ readiness level (TRL) of Eva. In this paper, we detail these improvements in the
 generation Eva Mk2 exoskeleton, some initial demonstrations of new capabilities, as well as future work
 to further increase site applicability.
 
-Supplementary material regarding the performance and collected data with the Eva Mk.1 exoskeleton can be found in [Li et. all](Eva Mk.1/LiROS2023.pdf) and [Winship et. all]()
+Supplementary material regarding the performance and collected data with the Eva Mk.1 exoskeleton can be found in [Li et. all](Projects/Exoskeletons/Eva Mk.1/LiIROS2023.pdf) and [Winship et. all]()
