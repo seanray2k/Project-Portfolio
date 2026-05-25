@@ -32,9 +32,13 @@ properties of the passive elements. Furthermore, in situations that necessitate 
 exoskeletons cannot structurally offload the added weight from the wearer.
 
 ## Previous Work
-<div style="display: flex;">
-    <img src="images/Hardware-v4.0.jpg">
+
+<div style="display: flex; gap: 2%;">
+  <img src="Jared_03_Front_left-1.png" alt="Image 1" width="32%">
+  <img src="Jared_02_left-1.png" alt="Image 2" width="32%">
+  <img src="Jared_03_Back_left-1.png" alt="Image 3" width="32%">
 </div>
+
 In order to bridge these gaps in the field, and in collaboration with Sandia National Labs (SNL), IHMC is
 developing the powered hip-knee-ankle exoskeleton, Eva, with the purpose of offloading PPE and
 assisting tasks common to tank farm work. The first prototype, or Eva Mk.1 (Figure 2.a), featured sagittal
