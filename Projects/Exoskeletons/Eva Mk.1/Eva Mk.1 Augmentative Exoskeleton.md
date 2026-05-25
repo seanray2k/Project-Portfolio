@@ -40,7 +40,7 @@ as a suite of onboard sensors for state estimation and control (i.e. IMUs on eac
 joint, pressure sensitive insoles). It was directly built around a commercial off-the-shelf (COTS) SCBA
 harness, and featured height adjustability in the form of modular carbon fiber linkages.
 
-Eva Mk1 served as a testbed for task-agnostic gravity compensation control designed to offload
+Eva Mk.1 served as a testbed for task-agnostic gravity compensation control designed to offload
 the weight of the exoskeleton and SCBA from the user regardless of posture [9], [10], task-specific
 controllers designed to assist specific movements common to tank farm work as shown in Figure 2.b (e.g.
 pushing/pulling, squatting/lifting, and walking), and a machine-learning (ML) based task classification
@@ -54,3 +54,5 @@ carriage exoskeleton prototype and led to important design improvements to incre
 readiness level (TRL) of Eva. In this paper, we detail these improvements in the development of the next
 generation Eva Mk2 exoskeleton, some initial demonstrations of new capabilities, as well as future work
 to further increase site applicability.
+
+Supplementary material regarding the performance and collected data with the Eva Mk.1 exoskeleton can be found in [Li et. all]() and [Winship et. all]()
