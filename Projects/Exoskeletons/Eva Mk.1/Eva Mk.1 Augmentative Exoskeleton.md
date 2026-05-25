@@ -58,7 +58,6 @@ years.
 
 <div style="display: flex; gap: 2%;">
   <img src="WholeBody_Front-1.png" alt="Image 1" width="32%">
-  <img src="WholeBody_Right-1.png" alt="Image 2" width="34%">
   <img src="WholeBodyBack_01-1.png" alt="Image 3" width="32%">
 </div>
 
