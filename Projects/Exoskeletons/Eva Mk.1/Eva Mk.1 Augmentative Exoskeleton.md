@@ -1,19 +1,9 @@
 # Eva Mk.1 Augmentative Exoskeleton
 
 ## Introduction
-Cleanup efforts at U.S. DOE tank farm sites have been ongoing since the mid 20th century and are
-projected to continue past 2050 [1], with the ultimate goal of safe decommissioning of sites and disposal
-of nuclear waste without contaminating the surrounding environment. The workers tasked with
-completing this mission are exposed to significant radiological hazards as well as heavy manual labor, a
-varied taskset, and extreme temperatures [2] (Figure 1). PPE is required to shield workers from radiation,
-completely covering the body and providing breathing protection ranging from respirator masks to fully
-self-contained breathing apparatuses (SCBAs) depending on the dose level of the work environment.
-However, SCBAs are often cumbersome and, while providing excellent protection against contaminated
-particulates, can be detrimental to the wearer’s biomechanics especially during dynamic and unstructured
-movement. Working with this added mass increases fatigue, leading to an increased risk for acute and
-chronic injuries.
+Workers empoyed by the U.S. Department of Energy, who are tasked with the safe decommissioning of tank farm sites and disposal of nuclear waste without contaminating the surrounding environment, are exposed to significant radiological hazards, as well as heavy manual labor, a varied taskset, and extreme temperatures. Personal protective equipment is required to shield workers from radiation, covering the full body and providing breathing protection usting respirator masks and fully self-contained breathing apparatuses (SCBAs) depending on the hazard levels of the work environment. However, SCBAs are often cumbersome and while providing excellent protection against contaminated particulates, they can be detrimental to the wearer’s biomechanics during dynamic and unstructured movement. Working with this added mass increases fatigue, leading to an increased risk for acute and chronic injuries.
 
-As such, there is a strong desire to increase worker safety across sites. One field that is
+As a result, there is a strong desire to increase worker safety across sites. One field that is
 increasingly being explored for this purpose is robotics, with some systems having been successfully
 developed and deployed to sites [5]. Many of these robots are able to complete important exploration and
 monitoring work [6], and some can operate in areas that are difficult to access by humans [7]. However,
