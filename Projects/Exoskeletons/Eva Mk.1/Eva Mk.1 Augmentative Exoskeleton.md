@@ -1,25 +1,11 @@
 # Eva Mk.1 Augmentative Exoskeleton
 
 ## Introduction
-Workers empoyed by the U.S. Department of Energy, who are tasked with the safe decommissioning of tank farm sites and disposal of nuclear waste without contaminating the surrounding environment, are exposed to significant radiological hazards, as well as heavy manual labor, a varied taskset, and extreme temperatures. Personal protective equipment is required to shield workers from radiation, covering the full body and providing breathing protection usting respirator masks and fully self-contained breathing apparatuses (SCBAs) depending on the hazard levels of the work environment. However, SCBAs are often cumbersome and while providing excellent protection against contaminated particulates, they can be detrimental to the wearer’s biomechanics during dynamic and unstructured movement. Working with this added mass increases fatigue, leading to an increased risk for acute and chronic injuries.
+Workers empoyed by the U.S. Department of Energy, who are tasked with the safe decommissioning of tank farm sites and disposal of nuclear waste without contaminating the surrounding environment, are exposed to significant radiological hazards, as well as heavy manual labor, a varied taskset, and extreme temperatures. Personal protective equipment (PPE) is required to shield workers from radiation, covering the full body and providing breathing protection usting respirator masks and fully self-contained breathing apparatuses (SCBAs) depending on the hazard levels of the work environment. However, SCBAs are often cumbersome and while providing excellent protection against contaminated particulates, they can be detrimental to the wearer’s biomechanics during dynamic and unstructured movement. Working with this added mass increases fatigue, leading to an increased risk for acute and chronic injuries.
 
-As a result, there is a strong desire to increase worker safety across sites. One field that is
-increasingly being explored for this purpose is robotics, with some systems having been successfully
-developed and deployed to sites [5]. Many of these robots are able to complete important exploration and
-monitoring work [6], and some can operate in areas that are difficult to access by humans [7]. However,
-these robots are usually designed for singular purposes, are limited in their ability to traverse uneven
-terrain, and lack the decision making capabilities and dexterity to complete a full tank farm workday.
-While robots can currently serve as useful tools, humans must complete the vast majority of work.
+As a result, there is a strong desire to increase worker safety across these sites. One field that is increasingly being explored for this purpose is robotics, however these robots are usually designed for singular purposes, limited by their ability to traverse uneven terrain, and/or lack the decision making capabilities to complete a full tank farm workday. While robots can currently serve as useful tools, humans still need to be in the loop to complete the vast majority of work.
 
-White standalone robots serve limited purposes, the technology can be applied to directly affect
-worker safety in the form of wearable robots, or exoskeletons. Common industrial exoskeletons are
-passive, utilizing unpowered mechanisms to assist specific repetitive movements (e.g. floor-to-waist
-lifting, overhead manipulation tasks, working while leaning). These are usually effective at assisting
-singular tasks, and many of these devices are currently being field tested due in part to the DOE Wearable
-Robotics Program [8]. However, their usefulness is limited in unstructured work environments that
-consist of numerous diverse tasks, and their assistance magnitude is restricted to the mechanical
-properties of the passive elements. Furthermore, in situations that necessitate SCBAs, common
-exoskeletons cannot structurally offload the added weight from the wearer.
+To counter this dilemma, the technology can instead be applied to directly target worker safety in the form of wearable robots, or exoskeletons. Common industrial exoskeletons are passive, utilizing unpowered mechanisms to assist specific repetitive movements (e.g. floor-to-waist lifting, overhead manipulation tasks, working while leaning). Passive devices These are usually effective at assisting singular tasks, but have litte utuility in unstructured work environments that consist of numerous diverse tasks, and the magnitude of provided assistance is restricted to the mechanical properties of the passive elements. Furthermore, in situations that necessitate SCBAs, common exoskeletons cannot structurally offload the added weight from the wearer. A device capable of such diversity requires actively actuated joint-based assistance the user can have direct control over, as well as 
 
 ## Previous Work
 
@@ -29,8 +15,8 @@ exoskeletons cannot structurally offload the added weight from the wearer.
   <img src="Jared_03_Back_left-1.png" alt="Image 3" width="32%">
 </div>
 
-In order to bridge these gaps in the field, and in collaboration with Sandia National Labs (SNL), IHMC is
-developing the powered hip-knee-ankle exoskeleton, Eva, with the purpose of offloading PPE and
+In collaboration with Sandia National Labs (SNL), the IHMC exoskeleton group
+developed the powered hip-knee-ankle exoskeleton, Eva, with the purpose of offloading PPE and
 assisting tasks common to tank farm work. The first prototype, or Eva Mk.1 (Figure 2.a), featured sagittal
 actuated degrees of freedom of the legs (i.e. hip and knee flexion/extension, ankle plantarflexion), as well
 as a suite of onboard sensors for state estimation and control (i.e. IMUs on each linkage, encoders at each
