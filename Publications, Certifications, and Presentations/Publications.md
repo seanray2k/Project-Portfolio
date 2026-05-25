@@ -1,6 +1,21 @@
 The following publications can be accessed through the following [Google Scholar Link](https://scholar.google.com/citations?user=4bht7wEAAAAJ&hl=en&authuser=1). Pdf versions are also attached: 
 
-@misc{Bridges_Smith_Preston_Sevil_Reynolds_2022, title={BLDC actuators revisited: A new cost-effective design and manufacturing for Robotic Applications}, url={https://digitalcommons.usf.edu/fcrar/2022/may12/10/}, journal={Digital Commons @ University of South Florida}, author={Bridges, Sean and Smith, Garhett and Preston, Rene and Sevil, Hakki Erhan and Reynolds, Michael}, year={2022}, month={Oct}} 
+@misc{Bridges_Smith_Preston_Sevil_Reynolds_2022, title={BLDC actuators revisited: A new cost-effective design and manufacturing for Robotic Applications}, abstract = {Brushless Direct Current (BLDC) actuators are recognized for their
+combined torque capabilities, precision control, and operational
+versatility, especially in regards to their smaller size. Actuators
+of this caliber are commonly implemented in high-performance industrial robotic arms, development in exoskeletal technologies, and
+quadrupedal robotic platforms. Professionally-developed brushless
+actuators available in the commercial sector deliver in their performance, however at a significant monetary expense. Our aim
+is to produce cost-efficient robotic actuators which are capable of
+replicating the design specifications and performance of commercial models. Our research focuses on the understanding and validation of fundamental principles of how brushless motors operate,
+and how the manipulation of respected variables can be combined
+to produce an optimized, robotic actuator design. The design and
+manufacturing process for each actuator prototype for this research
+revolves around a modular approach, where specific components
+can be repaired or replaced without compromising the structural
+integrity or robustness of the system. Each prototype utilizes a
+unique rotor and embedded planetary gearbox design as a mechanical means for increasing the potential torque output. Design constraints were set in place to properly analyze multi-variable combinations, which would ultimately maximize the electric torque
+density generated from induced electromagnetic forces. We believe that the results from our project can make cost-effective actuators available to the robotics community for advancing leggedlocomotion robotic research.}, url={https://digitalcommons.usf.edu/fcrar/2022/may12/10/}, journal={Digital Commons @ University of South Florida}, author={Bridges, Sean and Smith, Garhett and Preston, Rene and Sevil, Hakki Erhan and Reynolds, Michael}, year={2022}, month={Oct}} 
 
 @masterthesis{BridgesSeanRay2024DOAB,
 title = {Development Of A Brushless Cycloidal Robotic Actuator For Assistive Exoskeleton Research},
