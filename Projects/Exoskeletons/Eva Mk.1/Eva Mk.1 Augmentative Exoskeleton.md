@@ -7,7 +7,7 @@ As a result, there is a strong desire to increase worker safety across these sit
 
 To counter this dilemma, the technology can instead be applied to directly target worker safety in the form of wearable robots, or exoskeletons. Common industrial exoskeletons are passive, utilizing unpowered mechanisms to assist specific repetitive movements (e.g. floor-to-waist lifting, overhead manipulation tasks, working while leaning). Passive devices These are usually effective at assisting singular tasks, but have litte utuility in unstructured work environments that consist of numerous diverse tasks, and the magnitude of provided assistance is restricted to the mechanical properties of the passive elements. Furthermore, in situations that necessitate SCBAs, common exoskeletons cannot structurally offload the added weight from the wearer. A device capable of such diversity requires actively actuated joint-based assistance the user can have direct control over, as well as 
 
-## Previous Work
+## The Device
 
 <div style="display: flex; gap: 2%;">
   <img src="Jared_03_Front_left-1.png" alt="Image 1" width="32%">
