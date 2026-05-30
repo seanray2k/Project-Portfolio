@@ -17,14 +17,7 @@ To counter this dilemma, the technology can instead be applied to directly targe
 
 In collaboration with Sandia National Labs (SNL), the IHMC exoskeleton group developed the powered hip-knee-ankle exoskeleton, Eva, with the purpose of offloading PPE and assisting tasks common to tank farm work. The first prototype, or Eva Mk.1, featured sagittal actuated degrees of freedom of the legs (i.e. hip and knee flexion/extension, ankle plantarflexion), as well as a suite of onboard sensors for state estimation and control (i.e. IMUs on each linkage, encoders at each joint, pressure sensitive insoles). The device was directly built around a commercial off-the-shelf SCBA harness, and featured height adjustability in the form of modular carbon fiber linkages.
 
-Eva Mk.1 served as a testbed for task-agnostic gravity compensation control designed to offload
-the weight of the exoskeleton and SCBA from the user regardless of posture [9], [10], task-specific
-controllers designed to assist specific movements common to tank farm work as shown in Figure 2.b (e.g.
-pushing/pulling, squatting/lifting, and walking), and a machine-learning (ML) based task classification
-system to recognize and transition between task specific controllers as shown in Figure 2.c [11]. It also
-allowed for testing of numerous body interfacing methods and biological joint collocation strategies.
-Much of this work has been presented at various robotics and DOE conferences throughout the last few
-years.
+Eva Mk.1 served as a testbed for task-agnostic gravity compensation control designed to offload the weight of the exoskeleton and SCBA from the user regardless of posture. This device also tested task-specific controllers designed to assist specific movements common to tank farm work (e.g. pushing/pulling, squatting/lifting, and walking), and a machine-learning (ML) based task classification system to recognize and transition between these controllers. Mk.1 provided opportunities for testing numerous body interfacing methods and biological joint collocation strategies to analyze the qualitative aspects of device comfort and user confidence. Much of this work has been presented at various robotics and Department of Energy conferences throughout recent years.
 
 <div style="display: flex; gap: 2%;">
   <img src="WholeBody_Front-1.png" alt="Image 1" width="32%">
