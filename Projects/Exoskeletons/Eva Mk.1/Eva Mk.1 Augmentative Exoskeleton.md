@@ -24,7 +24,7 @@ Eva Mk.1 served as a testbed for task-agnostic gravity compensation control desi
   <img src="WholeBodyBack_01-1.png" alt="Image 3" width="32%">
 </div>
 
-These developments were important steps on the path toward realizing a site-fieldable load carriage exoskeleton prototype and led to important design improvements to increase the technology readiness level (TRL) of Eva. Improvements in the development of the next generation Eva Mk2 exoskeleton, some initial demonstrations of new capabilities, as well as future work to further increase site applicability can be found [here](Eva Mk.2 Augmentative Exoskeleton.md).
+These developments were important steps on the path toward realizing a site-fieldable load carriage exoskeleton prototype and led to important design improvements to increase the technology readiness level (TRL) of Eva. Improvements in the development of the next generation Eva Mk2 exoskeleton, some initial demonstrations of new capabilities, as well as future work to further increase site applicability can be found [here](/Eva Mk.2 Augmentative Exoskeleton.md).
 
 Supplementary material regarding the performance and collected data with the Eva Mk.1 exoskeleton can be found in [Li et. al](LiIROS2023.pdf) and [Winship et. al](WinshipICRA2024.pdf)
 
