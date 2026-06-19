@@ -1,6 +1,15 @@
 # Link Augmentative Exoskeleton
 
 ## Introduction
+At it’s core, Link is an assistive device system that can be configured for a wide range of purposes. Because there is no “catch-all” exoskeleton device, our approach is to change the hardware based on the task. It is essentially a high-power 2 DoF hip exoskeleton with add-ons including
+
+- knee
+- ankle (exploring both passive and active options)
+- upper body joints driven by cable systems
+
+The controls will be applied per sensed configuration and be based on a wide ranging dataset of biomechanical measures from common manual materials handling motions and ambulation styles. This will be paired with a transparency mode that will allow the user to move freely in the suit with or without extra assistance.
+
+Electronically, the system will be controlled by an NVIDIA Jetson computer and will function off of batteries that are able to power the suit at it’s full configuration (upper body and lower body) for an hour. The user will have access to a OUI style controller, and be able to control various aspects of device operation, but the settings of the device (lengths of the bars, etc.) will be handled automatically.
 
 ## Contributions
 
