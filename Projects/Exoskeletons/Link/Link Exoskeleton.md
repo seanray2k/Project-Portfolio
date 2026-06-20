@@ -28,6 +28,10 @@ Electrically, the system is controlled by an NVIDIA Jetson computer and function
 
 ## Contributions
 The Link exoskeleton provided the opportunity to deploy an assistive device using the custom brushless cycloidal actuators optimized for this particular application. In addition to the actuation development, additional effort was required to package it with a dedicated motor controller and in-series electrical harnessing as part of a singular embedded packaged system, capable of easy swapping/replacement to minimize servicing downtime.
+
+### The Actuators
+The V2 brushless cycloid actuators are the next iteration in part of the design progression of the V1 prototype, explained in greater detail (here) [].
+
 ### The Hips
 
 The linkage based design for the hip chain developed for the Eva Mk.2 device was readapted for the Link device. The mechanical behaviors were observed and various issues were acknowledged and needed revisiting. The hard stop on the second linkage engages firstly in the chain during external rotation, and motion is compensated for by the first linkage and the flexion/extension linkage. The first linkage hard stop engages 4 degrees after the second, accounting for the full true external range of rotation. Additionally, the hard stop range of the second linkage could not be expanded to be the same as the first (such that they would engage at the same time) due to the existing hard stop preventing the second linkage from reaching a singularity point and potentially collapse the hips inward towards the user. 
