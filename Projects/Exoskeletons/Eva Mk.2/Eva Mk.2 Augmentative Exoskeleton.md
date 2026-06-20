@@ -24,3 +24,5 @@ To combat this dilemma, instead of a prismatic joint, the use of revolute joints
 <div style="display: flex; gap: 2%;">
   <img src="image-20241019-122613.png" alt="Image 1" width="99%">
 </div>
+
+### Torso Interfacing
