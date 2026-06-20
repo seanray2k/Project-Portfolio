@@ -3,6 +3,11 @@
 ## Introduction
 The Eva Mk.2 exoskeleton was a great device with high potential for on-site deployment assisting with labor intensive tasks. However, further human piloting and experimentations, the following conclusions became apparent: Mk.2 lacked in usage for non-load carriage tasks, the SCBA harness systems are not as widespread in hazardous environments as they once were, and there little confidence in the adoption of the technology that the likelihood of site-use approval was low. At the time, there was not a catch-all exoskeleton device designed to assist users over wide ranges of tasks, and developing such a device requires extensive time, resources, funding, and experimental validation. Instead, the focus was shifted such the structure should easily morph to the requirements of the customer and use case that warrants physical assistance.
 
+<div style="display: flex; gap: 2%;">
+  <img src="modulardesign.png" alt="Image 1" width="99%">
+</div>
+
+
 Link is an assistive device system that can be configured for a wide range of purposes to address this problem. Because there is no “catch-all” exoskeleton device, the approach was changed to where the hardware is configured based on the task. At its core, Link is a high-power 2 DoF hip exoskeleton with add-ons including:
 
 - knee flexion/extension
