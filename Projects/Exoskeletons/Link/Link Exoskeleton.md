@@ -9,6 +9,10 @@ Link is an assistive device system that can be configured for a wide range of pu
 - ankle plantarflexion (exploring both passive and active options)
 - upper body joints driven by lighweight cable-based systems
 
+<div style="display: flex; gap: 2%;">
+  <img src="2025_Link_Intro_v5-HighBitrate.webp" alt="Image 1" width="99%">
+</div>
+
 Different controls policies are applied for each sensed configuration and based on a wide ranging dataset of biomechanical measures from common manual materials handling motions and ambulation styles. This is also paired with a transparency mode that will allow the user to move freely in the device with or without extra assistance.
 
 Electrically, the system is controlled by an NVIDIA Jetson computer and functions off of custom LiPo batteries, capable of powering the suit at it’s full configuration (upper body and lower body) for approximately one hour. The user will have access to an onboard operational user interface (OUI) style controller, and control various aspects of device operation, including but not limited to toggling active assistance, modulating and metering assistance magnitudes, and monitoring device status. The manual settings of the device (lengths of the bars, etc.) will be handled automatically without altering parameters on the computer.
