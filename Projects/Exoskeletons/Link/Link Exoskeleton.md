@@ -25,6 +25,8 @@ With power applied to the system and gravity compensation active, the torques ge
 
 ### The Legs
 
+
+
 <div style="display: flex; gap: 2%;">
   <img src="modulardesign.png" alt="Image 1" width="99%">
 </div>
