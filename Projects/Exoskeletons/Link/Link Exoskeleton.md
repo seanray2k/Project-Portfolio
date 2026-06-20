@@ -30,7 +30,7 @@ Electrically, the system is controlled by an NVIDIA Jetson computer and function
 The Link exoskeleton provided the opportunity to deploy an assistive device using the custom brushless cycloidal actuators optimized for this particular application. In addition to the actuation development, additional effort was required to package it with a dedicated motor controller and in-series electrical harnessing as part of a singular embedded packaged system, capable of easy swapping/replacement to minimize servicing downtime.
 
 ### The Actuators
-The V2 brushless cycloid actuators are the next iteration in part of the design progression of the V1 prototype, explained in greater detail [here] (Project-Portfolio/Prototypes/Actuators/Custom Actuators/Cycloidal Actuator Research/17:1 Cycloidal Actuator for Exoskeletal Research.md).
+The V2 brushless cycloid actuators are the next iteration in part of the design progression of the V1 prototype, explained in greater detail [here](https://github.com/seanray2k/Project-Portfolio/blob/main/Prototypes/Actuators/Custom%20Actuators/Cycloidal%20Actuator%20Research/17%3A1%20Cycloidal%20Actuator%20for%20Exoskeletal%20Research.md).
 
 ### The Hips
 
