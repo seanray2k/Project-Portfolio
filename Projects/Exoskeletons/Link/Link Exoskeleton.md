@@ -48,3 +48,8 @@ The hip flexion/extension ROM downward featured the modular design aspect that w
   <img src="modulardesign.png" alt="Image 1" width="99%">
 </div>
 
+<div style="display: flex; gap: 2%;">
+  <img src="hipconfig.png" alt="Image 1" width="49%">
+  <img src="hipkneeconfig.png" alt="Image 2" width="49%">
+</div>
+
