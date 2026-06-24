@@ -42,7 +42,7 @@ With power applied to the system and gravity compensation active, the torques ge
 
 ### The Legs
 
-
+The hip flexion/extension ROM downward featured the modular design aspect that would inspire future linkage additions on the upper and lower body portions of the device going forward. The methodology was to design standalone actuator packages(cycloidal actuator unit, input and output encoding, embedded motor controller, and wire pathing) configured to respective joint DoFs by external ROM hardstops, which could be linked together with a lightweight carbon fiber segment whose lengths are configured based on the anatomical measurements of the users estimated joint centers. The base system (hip abduction/adduction and flexion/extension) could ideally be worn by any user after making the necessary soft intefacing adjustments, and the device would then be tailored to both the users physical stature as well as the degree of joint assistance desired.
 
 <div style="display: flex; gap: 2%;">
   <img src="modulardesign.png" alt="Image 1" width="99%">
