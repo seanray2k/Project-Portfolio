@@ -55,10 +55,14 @@ The hip flexion/extension ROM downward featured the modular design aspect that w
 
 Interconnecting the physical modules and communication slaves required a physical connection method that mandated the following requirements. The physical connection needed to be robust to the cyclic moment loading and impact forces with various gait patterns, while being simple in its attachment method to not be confusing to the user who may not have mechanical experience. Both power and EtherCAT communication through each in-line connection needed a high mating cycle with freqency ratings in order to withstand the vibrations of the actuator transmissions, and be restricted to specific mating orientations.
 
-This many restrictions on an electrical connection limited available commerical options within an acceptable form factor. Instead, a custom connection was implemented. For the lower logic power and communication lines, an array of spring-loaded pogo pins (Mill-Max) were used within a concave receptical for assistied positioning. These connections possessed a high frequency rating within configurable housings for a compact arrangement. For actuator power, friction-based powerpole connections (Anderson) were rated for the 33V supply and higher amperage. 
+This many restrictions on an electrical connection limited available commerical options within an acceptable form factor. Instead, a custom connection was implemented. For the lower logic power and communication lines, an array of spring-loaded pogo pins (Mill-Max) were used within a concave receptical for assistied positioning. These connections possessed a high frequency rating within configurable housings for a compact arrangement. For actuator power, friction-based powerpole connections (Anderson) were rated for the 33V supply and higher amperage. Because the actuator power runs in series through each motor controller, the anderson connectors were kept together and assimilated to the side proximal to these solder joints. Additionally, powerpole connectors feature dovetail connections for holding multiple contacts together, whose configurable orientations create discrete mating patterns which restrict the orientation which the carbon fiber bar is inserted. This becomes important given that each bar contains a dedicated IMU, and by keeping the IMU proximal to the hip connection side, the sensor can retain the same direction and orientation regardless of bar length and without having to be reconfigured in software. 
 
 <div style="display: flex; gap: 2%;">
   <img src="actuatortransp.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="thightransp.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
