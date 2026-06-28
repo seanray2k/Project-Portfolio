@@ -65,6 +65,8 @@ This many restrictions on an electrical connection limited available commerical 
   <img src="thightransp.png" alt="Image 1" width="99%">
 </div>
 
+For the mechanical connection, I opted for a high surface area friction clasp secured with four screws. Stock carbon fiber tubing has loose thickness and perpendicularity tolerances, and the connection interface needed to compensate for this. The counterbored holes were left oversized to account for skewed alignment during tightening. Since the rectangular geometry introduces vertices subject to higher stress concentrations and not suitable for compression loading, each end of a bar features an epoxied aluminum insert that strengthens the profile internally when tightening down the clasp. The EtherCAT communication is most succeptible to missed deadlines should there be any disturbances in the connection, so the friction clasp design was evaluated using a 3D printed mockup following a [testing protocol]()
+
 <div style="display: flex; gap: 2%;">
   <img src="20250308_Link_02.jpg" alt="Image 1" width="99%">
 </div>
