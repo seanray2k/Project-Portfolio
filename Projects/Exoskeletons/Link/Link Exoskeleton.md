@@ -53,3 +53,4 @@ The hip flexion/extension ROM downward featured the modular design aspect that w
   <img src="hipkneeconfig.png" alt="Image 2" width="49%">
 </div>
 
+Interconnecting the physical modules and communication slaves required a physical connection method that mandated the following requirements. The physical connection needed to be robust to the cyclic moment loading and impact forces with various gait patterns, while being simple in its attachment method to not be confusing to the user who may not have mechanical experience. Both power and EtherCAT communication through each in-line connection needed a high mating cycle with freqency ratings in order to withstand the vibrations of the actuator transmissions, and be restricted to specific mating orientations. 
