@@ -60,3 +60,7 @@ This many restrictions on an electrical connection limited available commerical 
 <div style="display: flex; gap: 2%;">
   <img src="actuatortransp.png" alt="Image 1" width="99%">
 </div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="20250308_Link_02.jpg" alt="Image 1" width="99%">
+</div>
