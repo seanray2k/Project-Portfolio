@@ -161,6 +161,8 @@ Focus attention to the orientations and polarity of the anderson powerpole conne
 - Twit_RXP to IMU_RXP
 - Twit_RXN to IMU_RXN
 
+or
+
 - Twit_TXP to IMU_RXP
 - Twit_TXN to IMU_RXN
 - Twit_RXP to IMU_TXP
