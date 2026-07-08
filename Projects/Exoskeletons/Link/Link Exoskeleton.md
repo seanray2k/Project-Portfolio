@@ -97,3 +97,13 @@ After all testing conditions of the protocol passed, testing the EtherCAT commun
 <div style="display: flex; gap: 2%;">
   <img src="20250308_Link_02.jpg" alt="Image 1" width="99%">
 </div>
+
+The FEA provided in the thigh package review lacked critical details regarding its overall performance under high stress testing and needed to be reevaluated. The loading conditions are:
+- 1200 N vGRF remote load (y=-1120mm, x=75mm)
+- 4x M4 clamp bolts torqued to 4 Nm
+- Largest thigh bar; largest height setting from hips to ground based on Mk.2 ranges
+
+Other assumptions were also made for this FEA
+- Clamp dimensions were adjusted to be flush with all four faces of the CF bar; does not reflect true clamp displacement due to gap spacing
+- Fillets were added/adjusted across high stress concentration areas indicated in the previous FEA
+- Uses a remote loaded mass rather than axial loading to account for the generated moment by the foot in a lateral closed chain system.
