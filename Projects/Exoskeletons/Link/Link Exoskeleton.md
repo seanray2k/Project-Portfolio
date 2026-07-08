@@ -130,4 +130,26 @@ The loading conditions are:
   <img src="image-20241213-142446.png" alt="Image 4" width="99%">
 </div>
 
+The goal for the internal wiring for the CF Thigh bar is to make two exact copies that can be used on either side of the exoskeleton, while making the orientation discrete to ensure the IMU remain proximal to the hip actuator. Due to the limited space of the actuator packages, the twitter logic and ethercat communication signals will be wired to their nearest terminal, and any wire crossing/twisting can occur within the thigh bar itself.
 
+Here are all cables that run through the thigh:
+- EtherCAT
+- T+ is TxP
+- T- is TXN
+- R+ is RxP
+- R- is RxN
+- Logic Power
+- 33V
+- GND
+
+Actuator Power
+- 33V
+- GND
+
+While they are the same voltage, the logic and actuator power lines are kept separate from one another. The actuator power line travels straight through the thigh, while logic power and EtherCAT are terminated with an H4 IMU in series. The lengths of these wires are cut based on the minimum slack needed to effectively disassemble/reassemble the electrical inserts. For the actuator power, crimp two anderson powerpole connectors to the end, fasten to one of the electrical inserts, and feed the wire through the bar. There should be enough cable slack such that the electrical insert on the opposite end can be completely removed from the bar. Providing too much slack can introduce tangling of cables internally and pressing against the IMU board.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241213-142446.png" alt="Image 1" width="30%">
+  <img src="image-20241213-142446.png" alt="Image 2" width="30%">
+  <img src="image-20241213-142446.png" alt="Image 3" width="30%">
+</div>
