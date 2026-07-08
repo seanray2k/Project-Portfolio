@@ -107,3 +107,27 @@ Other assumptions were also made for this FEA
 - Clamp dimensions were adjusted to be flush with all four faces of the CF bar; does not reflect true clamp displacement due to gap spacing
 - Fillets were added/adjusted across high stress concentration areas indicated in the previous FEA
 - Uses a remote loaded mass rather than axial loading to account for the generated moment by the foot in a lateral closed chain system.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241213-152520.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241213-143415.png" alt="Image 2" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241213-143321.png" alt="Image 3" width="99%">
+</div>
+
+The loading conditions are:
+- 1200 N vGRF remote load (y=-1120mm, x=75mm)
+- 4x M4 clamp bolts torqued to 3 Nm
+- 140 Nm load applied to hip (double peak to account for opposing torques from hip and knee)
+- Largest thigh bar; largest height setting from hips to ground based on Mk.2 ranges
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241213-142446.png" alt="Image 4" width="99%">
+</div>
+
+
