@@ -149,21 +149,21 @@ Actuator Power
 While they are the same voltage, the logic and actuator power lines are kept separate from one another. The actuator power line travels straight through the thigh, while logic power and EtherCAT are terminated with an H4 IMU in series. The lengths of these wires are cut based on the minimum slack needed to effectively disassemble/reassemble the electrical inserts. For the actuator power, crimp two anderson powerpole connectors to the end, fasten to one of the electrical inserts, and feed the wire through the bar. There should be enough cable slack such that the electrical insert on the opposite end can be completely removed from the bar. Providing too much slack can introduce tangling of cables internally and pressing against the IMU board.
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20250211-212549.png" alt="Image 1" width="30%">
-  <img src="image-20250211-211130.png" alt="Image 2" width="30%">
   <img src="image-20250211-204341.png" alt="Image 3" width="30%">
+  <img src="image-20250211-211130.png" alt="Image 2" width="30%">
+  <img src="image-20250211-212549.png" alt="Image 1" width="30%">
 </div>
 
 Focus attention to the orientations and polarity of the anderson powerpole connectors for either end of the bar as to ensure they are not the same. For the Ethercat communication, the T+, T-, R+, R- sequence should be consistent across all connections for the millmax connections. Note the flip in the EtherCAT signals on either side of the Twitter and IMU boards. There are two potential methods for mating the EtherCAT signals between slaves:
 
-Twit_TXP to IMU_TXP
-Twit_TXN to IMU_TXN
-Twit_RXP to IMU_RXP
-Twit_RXN to IMU_RXN
+- Twit_TXP to IMU_TXP
+- Twit_TXN to IMU_TXN
+- Twit_RXP to IMU_RXP
+- Twit_RXN to IMU_RXN
 
-Twit_TXP to IMU_RXP
-Twit_TXN to IMU_RXN
-Twit_RXP to IMU_TXP
-Twit_RXN to IMU_TXN
+- Twit_TXP to IMU_RXP
+- Twit_TXN to IMU_RXN
+- Twit_RXP to IMU_TXP
+- Twit_RXN to IMU_TXN
 
 The first method is preferred for simplicity sake and matching the connector signals on the PCBs.
