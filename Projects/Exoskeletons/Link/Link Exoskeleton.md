@@ -187,7 +187,101 @@ All results shown in the Onshape FEA was verified with SW for consistency and ac
   <img src="image-20241029-190433.png" alt="Image 1" width="99%">
 </div>
 
-The transition to a single I beam as well as altering the end curvature of Link1 to be conical rather than circular resulted in approximately 10 g reduced weight from the initial pass. The hip chain shown previously, minus the Ab/Ad link attachment, currently weighs 0.908 g.
+The transition to a single I beam as well as altering the end curvature of Link1 to be conical rather than circular resulted in approximately 10 g reduced weight from the initial pass. The hip chain shown previously, minus the Ab/Ad link attachment, currently weighs 0.908 kg. Despite nearly 100g of weight removed to the system, this was not a meaningful weight optimization effort, and the design of hip geometry needed to be revisited. The legs segments and the backpack portion of the device were already using carbon fiber plating and tube stock as part of the lightweight structure philosophy, and would provide a cohesive design strategy when applied to the hip linkages.
+
+The full chain of the hips were remodeled without torsion springs, implementation of carbon fiber bars for weight, and modifying Link2 geometry for pinch point aversion. The carbon fiber sizes for the links were analyzed (Blue: 0.75” x 1.5”, Yellow: 1” x 2”). The yellow link matches closest with the original cross section dimensions of the hips, however the general weight savings estimate approximated to a 10% decrease. Thinner bars were outsourced and the blue link was analyzed. Link1 incurs most of the torsion loading from the Flex/Ex joint, as well as a cantilevered bending. Loading was applied to internal surfaces spanning 1” depth to simulate epoxy composite fasteners.
+- 48 Nm
+- 200 N remote load (X = 63.5, Y=165.5)
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+This analysis will be verified with the aluminum ends in place and additional loading characteristics.
+
+Transitioning from the initial 2” x 1” CF tubing to the 0.75” x 1.5” resulted in significantly greater weight reductions, yielding an approximate 50% weight reduction
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+Applied loading scenario at full internal rotation w/ Link1 locked out:
+- 58N continuous hGRF from peak Flex/Ex torque
+- 1200N vertical remote load from instantaneous vGRF (x=-43mm, y=-190mm) to simulate jumping/stomping
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+With the remote loading reduced to 200N (based upon loading configuration for the Ab/Ad and what is measured from the insole data), peak deflection reduced to 0.2 mm.
+
+For the hard stop on Link1, the contact surfaces were made internal to the joints in order to mitigate pinch points. This approach takes a triangular extrusions from the center hub that extends into a cavity of the previous link. The goal is the make the cavity a simple extrusion, while the angles of the corresponding link ROM can be accomplished from the link itself for ease of machinability.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+Applied loading scenario at full internal rotation w/ Link2 locked out:
+- 60N continuous hGRF from peak Flex/Ex torque
+- 62 Nm peak Flex/Ex torque
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+Applied loading scenario at full internal rotation w/ Flex/Ex link locked out:
+- 60N continuous hGRF from peak Flex/Ex torque
+- 1200N vertical load from instantaneous vGRF (x=-43mm, y=-190mm) to simulate jumping/stomping
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+</div>
+
+For each of the three sub-link assemblies analyzed, the stress concentrations for either torsion and cantilever loading are concentrated at the neck of each male-end revolute joint. Additionally, due to the similar geometry of each neck, the maximum deflection for each loading scenario approximates to 0.2 mm across peak loading/impulse conditions, and minimum FOS ranging between 3-2. Link1 experiences the lowest FOS due to being the first in the hip link chain, the longer profile which reduces overall stiffness, and the combined cantilever and torsion loading due to impulse.
   
 ### The Legs
 
