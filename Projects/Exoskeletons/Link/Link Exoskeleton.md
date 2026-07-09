@@ -194,19 +194,19 @@ The full chain of the hips were remodeled without torsion springs, implementatio
 - 200 N remote load (X = 63.5, Y=165.5)
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240725-211352.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240725-211419.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240725-212113.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240725-212131.png" alt="Image 1" width="99%">
 </div>
 
 This analysis will be verified with the aluminum ends in place and additional loading characteristics.
@@ -214,11 +214,11 @@ This analysis will be verified with the aluminum ends in place and additional lo
 Transitioning from the initial 2” x 1” CF tubing to the 0.75” x 1.5” resulted in significantly greater weight reductions, yielding an approximate 50% weight reduction
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240726-133303.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240726-133335.png" alt="Image 1" width="99%">
 </div>
 
 Applied loading scenario at full internal rotation w/ Link1 locked out:
@@ -226,15 +226,15 @@ Applied loading scenario at full internal rotation w/ Link1 locked out:
 - 1200N vertical remote load from instantaneous vGRF (x=-43mm, y=-190mm) to simulate jumping/stomping
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240730-141000.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240730-141044.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240730-141120.png" alt="Image 1" width="99%">
 </div>
 
 With the remote loading reduced to 200N (based upon loading configuration for the Ab/Ad and what is measured from the insole data), peak deflection reduced to 0.2 mm.
@@ -242,11 +242,11 @@ With the remote loading reduced to 200N (based upon loading configuration for th
 For the hard stop on Link1, the contact surfaces were made internal to the joints in order to mitigate pinch points. This approach takes a triangular extrusions from the center hub that extends into a cavity of the previous link. The goal is the make the cavity a simple extrusion, while the angles of the corresponding link ROM can be accomplished from the link itself for ease of machinability.
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240730-185425.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240730-185700.png" alt="Image 1" width="99%">
 </div>
 
 Applied loading scenario at full internal rotation w/ Link2 locked out:
@@ -254,15 +254,15 @@ Applied loading scenario at full internal rotation w/ Link2 locked out:
 - 62 Nm peak Flex/Ex torque
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240731-153749.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240731-154217.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240731-154317.png" alt="Image 1" width="99%">
 </div>
 
 Applied loading scenario at full internal rotation w/ Flex/Ex link locked out:
@@ -270,15 +270,15 @@ Applied loading scenario at full internal rotation w/ Flex/Ex link locked out:
 - 1200N vertical load from instantaneous vGRF (x=-43mm, y=-190mm) to simulate jumping/stomping
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240731-191239.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240731-191322.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
+  <img src="image-20240731-191415.png" alt="Image 1" width="99%">
 </div>
 
 For each of the three sub-link assemblies analyzed, the stress concentrations for either torsion and cantilever loading are concentrated at the neck of each male-end revolute joint. Additionally, due to the similar geometry of each neck, the maximum deflection for each loading scenario approximates to 0.2 mm across peak loading/impulse conditions, and minimum FOS ranging between 3-2. Link1 experiences the lowest FOS due to being the first in the hip link chain, the longer profile which reduces overall stiffness, and the combined cantilever and torsion loading due to impulse.
