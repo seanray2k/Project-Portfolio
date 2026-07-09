@@ -36,19 +36,19 @@ Full external and internal rotation of the hips (Link1 and Link2 at their maximu
 A different design approach was taken for the torso interface. The existing version using modular dovetail adjustment blocks provides a sturdy and simplistic approach, however the ease of making size adjustments is hindered by the little hand room present, especially on the shortest setting. 
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240723-152122.png" alt="Image 1" width="99%">
+  <img src="image-20240723-152122.png" alt="Image 1" width="80%">
 </div>
 
 The new approach to the design needed to accomplish the same range of size increments of the original design and confined within the same space behind the torso place, all the while providing a more user friendly and faster method of alternating between settings. To accomplish this, spring-loaded locking mechanisms with quick release latching were investigated. The settled approach was the pin locking attachment used for steering wheels, designed for handling axial and torque loading. 
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240723-153120.png" alt="Image 1" width="99%">
+  <img src="image-20240723-153120.png" alt="Image 1" width="50%">
 </div>
 
 The method of locking into place involves two dowel pins which are forced inward by springs into the central column to keep it secured.
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240723-153318.png" alt="Image 1" width="99%">
+  <img src="image-20240723-153318.png" alt="Image 1" width="50%">
 </div>
 
 <div style="display: flex; gap: 2%;">
