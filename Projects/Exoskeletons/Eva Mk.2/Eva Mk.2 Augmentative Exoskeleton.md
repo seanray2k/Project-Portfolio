@@ -33,3 +33,39 @@ Full external and internal rotation of the hips (Link1 and Link2 at their maximu
 </div>
 
 ### Torso Interfacing
+A different design approach was taken for the torso interface. The existing version using modular dovetail adjustment blocks provides a sturdy and simplistic approach, however the ease of making size adjustments is hindered by the little hand room present, especially on the shortest setting. 
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
+
+The new approach to the design needed to accomplish the same range of size increments of the original design and confined within the same space behind the torso place, all the while providing a more user friendly and faster method of alternating between settings. To accomplish this, spring-loaded locking mechanisms with quick release latching were investigated. The settled approach was the pin locking attachment used for steering wheels, designed for handling axial and torque loading. 
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
+
+The method of locking into place involves two dowel pins which are forced inward by springs into the central column to keep it secured.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
+
+Pushing the central block into the cavity is enough force to retract the dowel pins until they quick lock back into place. The initial prototype was optimized to resist pulling forces, however it lacked any bottom support surface in order to stop the block from being pushed in further and falling through the system. The second iteration was meant to take the initial concept and integrate it with the torso plate and adjustable T tracks on the backpack.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
+
+The second iteration requires less axial travel of the spring loaded cage in order to disengage the pins given the reduced amount of work room, however the mechanism was expanded radially to encompass a larger central block to engage with. Both sides of the cage are given winglets to press down with your fingers in order to unlock the mechanism, either of which can be used independently without having to reach around the opposite side. The central cavity was kept hollow, however central block would receive the bottom support surface from the backpack plate itself, maximizing the depth needed for modularity. The spring mechanism remains fixed the back pack, but could be used to interface across multiple groove settings on the central block. The modular dovetail block chain approach was kept, with additional locking grooves to interface with the pins. All block dimensions were designed to retain the same base distance and size increments as the original modular design.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
+
+The original dovetail approach also uses M4 bolts that lock each block connection together. The spring attachment does not use these bolts, as there is no room for the blocks to come apart from one another while in the central cavity. However, the removal of the bolts and the addition of the pin notches has resulted in reduced stiffness in the blocks, where the joints are much more elastic when the joints are experiencing axial pulling or remote moment loading. Reintroducing the bolts would solve the issue, but defeat the purpose of the fast interchangeability of sizing blocks. Machining the blocks will increase the mass of the mechanism and the cost.
