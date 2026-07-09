@@ -42,21 +42,65 @@ With power applied to the system and gravity compensation active, the torques ge
 
 The initial goals for the design were to maintain the same overall link lengths as those used in Mk.2, however retaining the fulling machined approach in order to be able to handle the torque requirements of the actuators. Because the hips were fully machined, weight optimization played a significant factor, where any weight savings strategies needed to comply with the material behavior of the components. The first design pass and analysis are as follows.
 
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-153038.png" alt="Image 1" width="99%">
+</div>
+
 Link1 static analysis, conducted similarly to that of Mk.2 is as follows:
 - 80N continuous hGRF from peak Flex/Ex torque
 - 65Nm remote peak Flex/Ex torque (x=43mm, y=-190mm)
 - Link weight: 0.272 kg
 
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-153711.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-153739.png" alt="Image 1" width="49%">
+  <img src="image-20240905-153803.png" alt="Image 1" width="49%">
+</div>
+
 Link1 dynamic impulse analysis was also analyzed:
 - 1200N remote instantaneous vGRF (x=43mm, y=-190mm)
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-154716.png" alt="Image 1" width="49%">
+  <img src="image-20240905-154736.png" alt="Image 1" width="49%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-154758.png" alt="Image 1" width="99%">
+</div>
 
 The impulse condition shows higher stress concentrations at the fixated proximal end, however the static condition shows slightly higher deformations from the loading conditions. pockets were extruded on both faces of the link in order to reduce overall weight conditions and provide the link with an overall double I beam cross section. However, I beams are optimized for cantilever loading that Link2 experiences the most, while the proximal link experiences more torsion loading. The pocketing/weight saving strategies do not have to be consistent across each link, and should instead reflect the loading scenarios each is anticipated to endure. Another approach was adjusting the pocket geometry on both sides of the link to have a cross configuration instead of the singular horizontal support.
 
 - Link weight: 0.299 kg
 
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-161356.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-161548.png" alt="Image 1" width="49%">
+  <img src="image-20240905-161606.png" alt="Image 1" width="49%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-161629.png" alt="Image 1" width="99%">
+</div>
+
 The same analysis was done with the cross bar design and pockets go through the entire structure
 
 - Link weight: 0.269 kg
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-190134.png" alt="Image 1" width="49%">
+  <img src="image-20240905-190159.png" alt="Image 1" width="49%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-190229.png" alt="Image 1" width="99%">
+</div>
 
 The pocketing strategy that extrudes through the component yields the best rigidity to weight ratio
 
@@ -65,7 +109,40 @@ Link2 static analysis, conducted similarly to that of Mk.2 is as follows:
 - 65Nm remote peak Flex/Ex torque (x=0mm, y=-59mm)
 - Link weight: 0.231 kg
 
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-192726.png" alt="Image 1" width="49%">
+  <img src="image-20240905-192752.png" alt="Image 1" width="49%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-192837.png" alt="Image 1" width="99%">
+</div>
+
 Two Link assembly w/ respective hinge pins. The goal of this study is to understand the stress propagations proximal to the first hinge pin that ties the Ab/Ad Link and Link1 together in order to assess potential materials to use for the pins other than the 4340/D2 tool steel in the past. The yield stress of 4340 is very high and was chosen for this application, however it is difficult to machine and therefore increases cost, as well as introduces a rust and corrosion problem. The strongest corrosion resistant steel is 316L, with a yield strength of 205 MPa and fatigue strength of approximately 145 MPa.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-203846.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-203919.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-203952.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-204022.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-204108.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20240905-204155.png" alt="Image 1" width="99%">
+</div>
 
 A secondary pass was done with the individual hip linkages in order to cut down on weight or improve stress propagations. There is no need for hip encoding specifically for the V1 pass of the device, which allows the hinge pins of the hip chain to be simplified down. Additionally, the material for the pins were changed from 4340 to 304/316 stainless steel for corrosion resistance and ease of machining. Link2 employs the use of a double I beam cross section given the cantilever behaviors is would experience during peak loading scenarios, however the high rigidity resulted in torsion stress concentrations across Link1. For a more uniform approach, Link 2 was altered to have a singular I beam cross section, all the while cutting away material. The analysis was conducted with the hip chain at its fullest internal rotation ROM to maximize the distance from the ab/ad link
 
