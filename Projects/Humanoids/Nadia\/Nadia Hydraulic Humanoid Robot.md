@@ -1,7 +1,7 @@
 # Nadia Hydraulic Humanoid Robot
 
 ## Introduction
-Nadia is a full-body hydraulic-electric hybrid humanoid robot platform designed for multi-terrain traversal. More information and research publications regarding the design and control strategies can be found on the [IHMC Robotics website](https://robots.ihmc.us/humanoid-design).
+Nadia was a next generation humanoid robot platform along with collaborators Boardwalk Robotics, Morfey Ltd, and H4 Labs. Nadia was designed to have have a high power-to-weight ratio and large range of motion through the use of innovative mechanisms and composite materials. Nadia was also being used to develop autonomous and semi-autonomous behaviors to allow the robot to function in urban environments and structures. The robot’s namesake is famed gymnast Nadia Comăneci, as a nod to the ultimate design goal — achieving human-range-of-motion. The development of Nadia was funded through several sources, including the Office of Naval Research (ONR), Army Research Laboratory (ARL), NASA Johnson Space Center, and TARDEC. More information and research publications regarding the design and control strategies can be found on the [IHMC Robotics website](https://robots.ihmc.us/humanoid-design).
 
 <div style="display: flex; gap: 2%;">
   <img src="20240912_Nadia_holding_IHMC.jpg" alt="Image 1" width="99%">
