@@ -25,4 +25,13 @@ To combat this dilemma, instead of a prismatic joint, the use of revolute joints
   <img src="image-20241019-122613.png" alt="Image 1" width="99%">
 </div>
 
+Full external and internal rotation of the hips (Link1 and Link2 at their maximum ROM while maintaining conformity to hip IC). Resulting in 14 degrees external rotation and 16 degrees internal rotation. I/E motions past these regions result in the Flex/Ex distal link no longer conforming to the user and drift outward. These ranges of motion will also vary between user hip dimensions.
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
+
+<div style="display: flex; gap: 2%;">
+  <img src="image-20241019-122613.png" alt="Image 1" width="99%">
+</div>
 ### Torso Interfacing
