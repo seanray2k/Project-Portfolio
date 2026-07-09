@@ -154,19 +154,19 @@ Loading scenario:
 All results shown in the Onshape FEA was verified with SW for consistency and accuracy.
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240905-204155.png" alt="Image 1" width="99%">
+  <img src="image-20241029-190031.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240905-204155.png" alt="Image 1" width="99%">
+  <img src="image-20241029-190055.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240905-204155.png" alt="Image 1" width="99%">
+  <img src="image-20241029-190131.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240905-204155.png" alt="Image 1" width="99%">
+  <img src="image-20241029-190433.png" alt="Image 1" width="99%">
 </div>
 
 The transition to a single I beam as well as altering the end curvature of Link1 to be conical rather than circular resulted in approximately 10 g reduced weight from the initial pass. The hip chain shown previously, minus the Ab/Ad link attachment, currently weighs 0.908 g.
