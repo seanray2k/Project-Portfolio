@@ -43,17 +43,17 @@ With power applied to the system and gravity compensation active, the torques ge
 The revolute joint connecting Link1 and Link2 create a pinch point internal to the chain, as well as between Link2 and the Flex/Ex actuator external to the chain. The conceptual approach would be to add space to those areas such that at their maximum range of motion, there is still a gap between the linkages and minimize pinching. Additionally, the hips should retain the simplistic design approach w.r.t. overall geometry for ease of machining and applied tolerancing. Because Link2 is involved in both areas of concern, it should take the most priority in modification. Furthermore, both pinch points arise simultaneously during external rotation, observed below
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240905-153038.png" alt="Image 1" width="99%">
+  <img src="image-20240717-134413.png" alt="Image 1" width="99%">
 </div>
 
 The new design approach shows the joint connections on either end of Link2 initially start parallel with the directions of the link connections they attach to. These parallel segments are then connected directly to one another, resulting in a zig-zag shape. The profile approach adds large amounts of space in the areas of concern, while still remaining simplistic in shape. By keeping the linear shape, the new design still offers means for easy machining and/or weight saving strategies. The shape works for internal rotation, however the profile must have enough space throughout the rest of the yaw motion.
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240905-153038.png" alt="Image 1" width="99%">
+  <img src="image-20240717-134458.png" alt="Image 1" width="99%">
 </div>
 
 <div style="display: flex; gap: 2%;">
-  <img src="image-20240905-153038.png" alt="Image 1" width="99%">
+  <img src="image-20240717-134620.png" alt="Image 1" width="99%">
 </div>
 
 The initial goals for the design were to maintain the same overall link lengths as those used in Mk.2, however retaining the fulling machined approach in order to be able to handle the torque requirements of the actuators. Because the hips were fully machined, weight optimization played a significant factor, where any weight savings strategies needed to comply with the material behavior of the components. The first design pass and analysis are as follows.
