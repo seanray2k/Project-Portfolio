@@ -56,6 +56,8 @@ The new design approach shows the joint connections on either end of Link2 initi
   <img src="image-20240717-134620.png" alt="Image 1" width="99%">
 </div>
 
+The profile range does highlight concern over the full ROM of the joint connections in Link2, however the initial segments that are parallel is not a requirement, and dimension adjustment will be required. The initial design and neutral angles of the hip links were dependent on the resting angles of the torsion springs in series with the chain. Since these springs hindered hip colocation efforts as well as added instability during walking, the springs are no longer used in the design and other link geometries can be potentially explored. Other pinch points include where the individual hardstops on the links make contact. In combination with the previous approach, making the hardstops internal to the links would alleviate that issue.
+
 The initial goals for the design were to maintain the same overall link lengths as those used in Mk.2, however retaining the fulling machined approach in order to be able to handle the torque requirements of the actuators. Because the hips were fully machined, weight optimization played a significant factor, where any weight savings strategies needed to comply with the material behavior of the components. The first design pass and analysis are as follows.
 
 <div style="display: flex; gap: 2%;">
