@@ -7,7 +7,7 @@ Project Overviews and Contributions
 - [Eva Mk.2 Augmentative Exoskeleton](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Exoskeletons/Eva%20Mk.1/Eva%20Mk.1%20Augmentative%20Exoskeleton.md)
 - [Link Augmentative Exoskeleton](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Exoskeletons/Link/Link%20Exoskeleton.md)
 - [Nadia Hydraulic/Electric Humanoid Robot](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Humanoids/Nadia%5C/Nadia%20Hydraulic%20Humanoid%20Robot.md)
-- [Alexander Electric Humanoid Robot]()
+- [Alexander Electric Humanoid Robot](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Humanoids/Alex/Alexander%20Electric%20Humanoid)
 - [Mudskipper Quadrupedal Robot]()
 
 The Prototypes folder contains contains a variety of designs for standalone actuation package solutions as well as mechanical conceptualizations for different applications.
