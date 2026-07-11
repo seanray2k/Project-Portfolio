@@ -10,4 +10,4 @@ Project Overviews and Contributions
 - [Alexander Electric Humanoid Robot]()
 - [Mudskipper Quadrupedal Robot]()
 
-The Prototypes folder contains 
+The Prototypes folder contains contains a variety of designs for standalone actuation package solutions as well as mechanical conceptualizations for different applications.
