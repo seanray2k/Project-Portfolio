@@ -10,4 +10,4 @@ Project Overviews and Contributions
 - [Alexander Electric Humanoid Robot](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Humanoids/Alex/Alexander%20Electric%20Humanoid)
 - [Mudskipper Quadrupedal Robot](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Quadrupedal%20Research/Mudskipper%20Project.md)
 
-The Prototypes folder contains contains a variety of designs for standalone actuation package solutions as well as mechanical conceptualizations for different applications.
+The Prototypes folder contains contains a variety of designs for standalone actuation package solutions as well as mechanical conceptualizations for different applications. Some of the prototype designs retain actuation packages designed and stored within the [Actuators](https://github.com/seanray2k/Project-Portfolio/tree/main/Prototypes/Actuators) folder.
