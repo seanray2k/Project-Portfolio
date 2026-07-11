@@ -4,7 +4,7 @@ Various designs, prototypes, and visual concepts developed during my professiona
 Project Overviews and Contributions
 
 - [Eva Mk.1 Augmentative Exoskeleton](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Exoskeletons/Eva%20Mk.1/Eva%20Mk.1%20Augmentative%20Exoskeleton.md)
-- [Eva Mk.2 Augmentative Exoskeleton]()
+- [Eva Mk.2 Augmentative Exoskeleton](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Exoskeletons/Eva%20Mk.1/Eva%20Mk.1%20Augmentative%20Exoskeleton.md)
 - [Link Augmentative Exoskeleton]()
 - [Nadia Hydraulic/Electric Humanoid Robot]()
 - [Alexander Electric Humanoid Robot]()
