@@ -8,6 +8,6 @@ Project Overviews and Contributions
 - [Link Augmentative Exoskeleton](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Exoskeletons/Link/Link%20Exoskeleton.md)
 - [Nadia Hydraulic/Electric Humanoid Robot](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Humanoids/Nadia%5C/Nadia%20Hydraulic%20Humanoid%20Robot.md)
 - [Alexander Electric Humanoid Robot](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Humanoids/Alex/Alexander%20Electric%20Humanoid)
-- [Mudskipper Quadrupedal Robot]()
+- [Mudskipper Quadrupedal Robot](https://github.com/seanray2k/Project-Portfolio/blob/main/Projects/Quadrupedal%20Research/Mudskipper%20Project.md)
 
 The Prototypes folder contains contains a variety of designs for standalone actuation package solutions as well as mechanical conceptualizations for different applications.
