@@ -27,14 +27,14 @@ The following guidelines were developed over years of working with the OnShape c
 
 ## OnShape Organization
 ### Folders and Organization
-In a robot’s subfolder, there will be four folders.
+- In a robot’s subfolder, there will be four folders.
 
-1. ?? High-Level Assemblies: Houses all of the high-level documents that reflect the current state of the built robots IHMC has track of.
-2. ?? Project Documents: Houses all of the current and future design work of the given robot. There should be no subfolders inside of this folder.
-3. ?? Sandbox: Houses all of the early project experimental spaces to get design concepts to a good enough spot to have a kick-off about the project. These documents can be moved to the Project Documents folder and renamed after kick-off if desired.
-4. ?? Old Naming Structure: Houses old design work that may or may not be referenced in current designs, but which does not follow current organization and naming conventions.
+   1. ?? High-Level Assemblies: Houses all of the high-level documents that reflect the current state of the built robots IHMC has track of.
+   2. ?? Project Documents: Houses all of the current and future design work of the given robot. There should be no subfolders inside of this folder.
+   3. ?? Sandbox: Houses all of the early project experimental spaces to get design concepts to a good enough spot to have a kick-off about the project. These documents can be moved to the Project Documents folder and renamed after kick-off if desired.
+   4. ?? Old Naming Structure: Houses old design work that may or may not be referenced in current designs, but which does not follow current organization and naming conventions.
 
-?? delineates the robot’s two-letter shorthand designator. For example, for Alexander, it would be AX. For Link, it would be LK.
+- ?? delineates the robot’s two-letter shorthand designator. For example, for Alexander, it would be AX. For Link, it would be LK.
 
 ### High Level Documents
 - There is a high-level document for each iteration of the robot that exists in “real life”. That is to say, if the robot is made and assembled, there is a living OnShape document that reflects the real-life robot.
