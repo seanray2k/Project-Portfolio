@@ -102,7 +102,7 @@ Parts should follow this naming structure:
 
 ### COTS Part Numbering
 - For COTS parts, use the “Standard Content” in OnShape’s part insert feature whenever possible.
-- If you need to add a part that isn’t in the Standard Content, import the part to the document in a Hardware folder. Refer to the section of this guide starting at Slide 12 and going through Slide 34 to name the part properly.
+- If you need to add a part that isn’t in the Standard Content, import the part to the document in a Hardware folder. Refer to the section of [this guide](https://github.com/seanray2k/Project-Portfolio/blob/main/Design%20Guidelines%20and%20Practices/COTS%20Hardware%20Nomenclature.pdf) to name the part properly.
 - Make sure to defeature parts where possible. This helps with document load times and rendering.
 
 ### Releases and Versioning
