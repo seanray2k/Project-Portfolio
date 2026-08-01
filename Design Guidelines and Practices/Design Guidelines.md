@@ -4,8 +4,8 @@ The following guidelines were developed over years of working with the OnShape c
 1. A design idea/request has been presented to the team.
 2. A design idea/request is assigned by the team, typically at an iteration meeting.
 3. Initial ideation is done. This includes basic research of other similar concepts, design sketches, extremely rough/generic CAD, simulations, etc.
-   All work done at this stage should be very simple and conceptual in nature. The point is to express initial ideas in a simple and understandable way. Precise CAD or modelling is not needed at this stage, especially because a lot of it could change post-kick-off. You should not be spending a ton of time at this stage (maybe a week or two at most).
-   Any CAD should be done in the relevant Sandbox folder.
+   - All work done at this stage should be very simple and conceptual in nature. The point is to express initial ideas in a simple and understandable way. Precise CAD or modelling is not needed at this stage, especially because a lot of it could change post-kick-off. You should not be spending a ton of time at this stage (maybe a week or two at most).
+   - Any CAD should be done in the relevant Sandbox folder.
 5. A kick-off meeting is had. The link to the Kick-off meeting template can be found here. Please make a copy of these slides and move it to this folder for Humanoids projects and this folder for Exoskeleton projects. All teams should be present to express their opinions, needs, and concerns.
    Make sure to answer all of the questions and presentation points this template asks.
    Make sure to leave room for discussion. The point of a kick-off is to get ideas and desires from the rest of the team early in the design process.
