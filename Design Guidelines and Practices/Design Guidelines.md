@@ -10,20 +10,20 @@ The following guidelines were developed over years of working with the OnShape c
    - Make sure to answer all of the questions and presentation points this template asks.
    - Make sure to leave room for discussion. The point of a kick-off is to get ideas and desires from the rest of the team early in the design process.
    - The end of a kick-off will decide if a design thrust is a new project or just a revision of an older project.
-5. For a new project, start a new project document in OnShape. A template for the project document is located in each robot’s Project Documents subfolder using the 000 designation. Make a copy of this document and change what is needed to be changed. Also make a new progress presentation (here for Humanoids, here for Exoskeletons). Copy the Template Slides document (000 designation), fill out the first slides, and then add to it as the design progresses.
+6. For a new project, start a new project document in OnShape. A template for the project document is located in each robot’s Project Documents subfolder using the 000 designation. Make a copy of this document and change what is needed to be changed. Also make a new progress presentation (here for Humanoids, here for Exoskeletons). Copy the Template Slides document (000 designation), fill out the first slides, and then add to it as the design progresses.
    - For a revision, make a branch in the old project that this revision is based on. Name the branch appropriately (“Develop - DESC” is a good structure to use). For your progress presentation note-keeping, use the slide deck from the project this revision is based on (eg. if it’s a revision of the AX030 project, add to the AX030 slides). Previous slide decks are located here for Humaniods and here for Exoskeletons.
-6. Create! Work in CAD, start exploring hardware needs, loading situations, aesthetics, etc. This is your time to make the fleshed-out design that fits the group’s needs as closely as is realistically possible.
+7. Create! Work in CAD, start exploring hardware needs, loading situations, aesthetics, etc. This is your time to make the fleshed-out design that fits the group’s needs as closely as is realistically possible.
    - It is beneficial to periodically have check-ins with the rest of the hardware team through design reviews, discussions at iterations or stand-ups, or desk-side chats.
    - Constantly update your progress in your progress presentation Slides document. Note down important decisions, design methodology, relevant links, etc. Anyone reviewing this slide deck should be able to understand all of the major decisions that happened throughout your design process.
    - You may copy and move any relevant document tabs from the Sandbox into the relevant document if desired.
-7. When your work is near completion, have a large-scale design review. Hardware team should be present, and other teams should be encouraged (but not required) to come. Present the minutia of your design and all of the work you put into making it happen. Present nicely-made assemblies and subassemblies if relevant.
+8. When your work is near completion, have a large-scale design review. Hardware team should be present, and other teams should be encouraged (but not required) to come. Present the minutia of your design and all of the work you put into making it happen. Present nicely-made assemblies and subassemblies if relevant.
    - Design review slides should be kept inside the relevant project’s Progress Presentation slide deck.
-8. Once the design is reviewed and edits are made, make necessary drawings and start gearing towards manufacture. Clean up assemblies and subassemblies in your document and make sure everything looks good.
-9. Merge relevant branches and make an OnShape Release. Update assemblies to reference the Release in Main.
-10. Submit quotes and start the purchasing process!
-11. Once manufactured parts are received, assemble everything to make sure fit and function are good. If a revision is needed, repeat this entire process. If it’s good to go, work out a good time with the team to get it on the robot.
-12. Update your edits in the relevant high-level documents. This step might happen before the previous, have a conversation with the Controls/Software team to discuss when they would like the model ready to use.
-13. Your project is now complete!
+9. Once the design is reviewed and edits are made, make necessary drawings and start gearing towards manufacture. Clean up assemblies and subassemblies in your document and make sure everything looks good.
+10. Merge relevant branches and make an OnShape Release. Update assemblies to reference the Release in Main.
+11. Submit quotes and start the purchasing process!
+12. Once manufactured parts are received, assemble everything to make sure fit and function are good. If a revision is needed, repeat this entire process. If it’s good to go, work out a good time with the team to get it on the robot.
+13. Update your edits in the relevant high-level documents. This step might happen before the previous, have a conversation with the Controls/Software team to discuss when they would like the model ready to use.
+14. Your project is now complete!
 
 ## OnShape Organization
 ### Folders and Organization
