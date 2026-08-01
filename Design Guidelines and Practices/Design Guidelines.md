@@ -54,12 +54,18 @@ The following guidelines were developed over years of working with the OnShape c
       - This folder will be made automatically when you import a part. Don’t try to make it yourself. If you don’t import any parts, you will not have this folder.
 - Documents should follow this naming structure:
 
-Slide1.PNG
+<div style="display: flex; gap: 2%;">
+  <img src="Slide1.png" alt="Image 1" width="99%">
+</div>
+
 ### Assembly Naming
 - Assemblies should live in their relevant document.
 - Assemblies should follow this naming structure:
 
-Slide2.PNG
+<div style="display: flex; gap: 2%;">
+  <img src="Slide2.png" alt="Image 2" width="99%">
+</div>
+
 - Mirrored assemblies and subassemblies will have related numbers. Right-side assemblies should be 01-50, and left-side assemblies should be 51-99.
    - Assemblies that are mirrors of each other should be incremented by 50 from one another. For example, if “right knee” is A03, then “left knee” should be A53.
 - Subassemblies should be in the folder labelled “Subassemblies”.
@@ -69,7 +75,10 @@ Slide2.PNG
 - Part Studios should live in their relevant document.
 - Part Studios should follow this naming structure:
 
-Slide3.PNG
+<div style="display: flex; gap: 2%;">
+  <img src="Slide3.png" alt="Image 3" width="99%">
+</div>
+
 - Mirrored parts should be made inside the initial part studio. A separate part studio should not be made just to mirror a part.
    - If there is an extenuating circumstance that requires a new part studio for a mirrored part, the mirrored part studio should be incremented by 50 from the other. For example, if “right knee” is P03, then “left knee” should be P53.
 - Part Studios should be in the folder labelled “Part Studios”.
@@ -77,7 +86,10 @@ Slide3.PNG
 ### Part Numbering
 Parts should follow this naming structure:
 
-Slide4.PNG
+<div style="display: flex; gap: 2%;">
+  <img src="Slide4.png" alt="Image 4" width="99%">
+</div>
+
 - Notes to the above when using OnShape:
    - A part’s “name” is the same as the above, but without the revision letter and with a descriptor added (eg. AX031-P06-08 Foot Cover).
    - When putting a part number into OnShape through the part’s Properties, leave the revision letter off of the “Part number” field and instead put it in the “Revision” field. When making a drawing, the template for adding the part number engraving will re-combine them.
