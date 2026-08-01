@@ -4,12 +4,12 @@ The following guidelines were developed over years of working with the OnShape c
 1. A design idea/request has been presented to the team.
 2. A design idea/request is assigned by the team, typically at an iteration meeting.
 3. Initial ideation is done. This includes basic research of other similar concepts, design sketches, extremely rough/generic CAD, simulations, etc.
-a. All work done at this stage should be very simple and conceptual in nature. The point is to express initial ideas in a simple and understandable way. Precise CAD or modelling is not needed at this stage, especially because a lot of it could change post-kick-off. You should not be spending a ton of time at this stage (maybe a week or two at most).
-b. Any CAD should be done in the relevant Sandbox folder.
+   All work done at this stage should be very simple and conceptual in nature. The point is to express initial ideas in a simple and understandable way. Precise CAD or modelling is not needed at this stage, especially because a lot of it could change post-kick-off. You should not be spending a ton of time at this stage (maybe a week or two at most).
+   Any CAD should be done in the relevant Sandbox folder.
 5. A kick-off meeting is had. The link to the Kick-off meeting template can be found here. Please make a copy of these slides and move it to this folder for Humanoids projects and this folder for Exoskeleton projects. All teams should be present to express their opinions, needs, and concerns.
-a. Make sure to answer all of the questions and presentation points this template asks.
-b. Make sure to leave room for discussion. The point of a kick-off is to get ideas and desires from the rest of the team early in the design process.
-c. The end of a kick-off will decide if a design thrust is a new project or just a revision of an older project.
+   Make sure to answer all of the questions and presentation points this template asks.
+   Make sure to leave room for discussion. The point of a kick-off is to get ideas and desires from the rest of the team early in the design process.
+   The end of a kick-off will decide if a design thrust is a new project or just a revision of an older project.
 7. For a new project, start a new project document in OnShape. A template for the project document is located in each robot’s Project Documents subfolder using the 000 designation. Make a copy of this document and change what is needed to be changed. Also make a new progress presentation (here for Humanoids, here for Exoskeletons). Copy the Template Slides document (000 designation), fill out the first slides, and then add to it as the design progresses.
 - For a revision, make a branch in the old project that this revision is based on. Name the branch appropriately (“Develop - DESC” is a good structure to use). For your progress presentation note-keeping, use the slide deck from the project this revision is based on (eg. if it’s a revision of the AX030 project, add to the AX030 slides). Previous slide decks are located here for Humaniods and here for Exoskeletons.
 6. Create! Work in CAD, start exploring hardware needs, loading situations, aesthetics, etc. This is your time to make the fleshed-out design that fits the group’s needs as closely as is realistically possible.
