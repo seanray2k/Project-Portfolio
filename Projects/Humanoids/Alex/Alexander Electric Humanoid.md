@@ -5,6 +5,7 @@ Alex is a next generation humanoid robot platform that builds off the success of
 
 <div style="display: flex; gap: 2%;">
   <img src="12_Alex_Cinderblocks_01.webp" alt="Image 1" width="49%">
+  <img src="11_Alex_OneFootBalancing_03.webp" alt="Image 1" width="49%">
 </div>
 
 More dynamic performances can be found [here](https://www.youtube.com/watch?v=d7zNFP0OfGE).
