@@ -4,7 +4,7 @@
 Alex is a next generation humanoid robot platform that builds off the success of Nadia, featuring high power, custom actuators, as well as completely onboard computation, perception, and power. Alex focuses on mobility, power, and autonomous and semi-autonomous behaviors, allowing it to function both outside and in urban environments and structures. The development of Alex is funded through several sources, including the Office of Naval Research (ONR), Army Research Laboratory (ARL), and Army Data Analysis Center (DAC). More information and research publications regarding the design and control strategies for Alex can be found on the [IHMC Robotics website](https://robots.ihmc.us/humanoid-design).
 
 <div style="display: flex; gap: 2%;">
-  <img src="12_Alex_Cinderblocks_01.webp" alt="Image 1" width="49%">
+  <img src="12_Alex_Cinderblocks_01.webp" alt="Image 1" width="45%">
   <img src="11_Alex_OneFootBalancing_03.png" alt="Image 1" width="49%">
 </div>
 
