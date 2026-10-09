@@ -55,9 +55,10 @@ The device was subjected to an initial squating experiment with a virtual spring
   <img src="Knee_exo_data.png" alt="Image 1" width="99%">
 </div>
 
-Leg extensions while sitting at 180 bpm and light jogging at 5 mph were also evaluated using the same virtual spring model. 
+Leg extensions while sitting at 180 bpm and light jogging at 5 mph were also evaluated using the same virtual spring model. Maximum torque application was assessed by jumping in place for short durations, resulting in a maximum of 25 Nm assistance.
+
 <div style="display: flex; gap: 2%;">
-  <img src="Knee_exo_extensions.gif" alt="Image 1" width="76%">
+  <img src="Knee_exo_extensions.gif" alt="Image 1" width="75%">
   <img src="Knee_exo_jog.gif" alt="Image 1" width="23%">
 </div>
 
