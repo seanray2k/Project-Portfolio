@@ -38,3 +38,5 @@ multiple human performance objectives. Such objectives extend past the standard 
 and running gaits, including but not limited to stair ascent and descent, jumping, and lunging.
 
 ## Validation Through Knee Exoskeleton Apparatus
+
+Following the characterization and validation through test bench static and dynamic behaviors, the actuator prototype and motor controller were attached to a laser-cut aluminum knee apparatus. 
