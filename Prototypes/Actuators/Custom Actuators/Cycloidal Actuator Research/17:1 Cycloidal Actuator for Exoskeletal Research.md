@@ -38,7 +38,7 @@ multiple human performance objectives. Such objectives extend past the standard 
 and running gaits, including but not limited to stair ascent and descent, jumping, and lunging.
 
 <div style="display: flex; gap: 2%;">
-  <img src="Compensationmodels (1).webp" alt="Image 1" width="99%">
+  <img src="Compensationmodels (1).webp" alt="Image 1" width="75%">
 </div>
 
 ## Validation Through Knee Exoskeleton Apparatus
@@ -47,7 +47,7 @@ Following the characterization and validation through test bench static and dyna
 
 <div style="display: flex; gap: 2%;">
   <img src="Knee_exo.png" alt="Image 1" width="49%">
-  <img src="Knee_squats.gif" alt="Image 1" width="49%">
+  <img src="Knee_squats.gif" alt="Image 1" width="30%">
 </div>
 
 The device was subjected to an initial squating experiment with a virtual spring model about the knee DoF, supplying approximately 15 Nm assistive torque. The bandwidth of the system was tested by incrementally increasing the frequency which the participate would squat up and down until unable to keep up with the metronome, reaching up to 200 bpm. 
