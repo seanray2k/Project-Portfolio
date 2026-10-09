@@ -37,6 +37,20 @@ of the actuator, greater opportunities are generated for exercising various cont
 multiple human performance objectives. Such objectives extend past the standard self-selected walking
 and running gaits, including but not limited to stair ascent and descent, jumping, and lunging.
 
+<div style="display: flex; gap: 2%;">
+  <img src="Compensationmodels (1).webp" alt="Image 1" width="99%">
+</div>
+
 ## Validation Through Knee Exoskeleton Apparatus
 
-Following the characterization and validation through test bench static and dynamic behaviors, the actuator prototype and motor controller were attached to a laser-cut aluminum knee apparatus. 
+Following the characterization and validation through test bench static and dynamic behaviors, the actuator prototype and motor controller were attached to a laser-cut aluminum knee apparatus and hand-sewn thigh and shank interfaces.
+
+<div style="display: flex; gap: 2%;">
+  <img src="Knee_exo.png" alt="Image 1" width="49%">
+  <img src="Knee_squats.gif" alt="Image 1" width="49%">
+</div>
+
+The device was subjected to an initial squating experiment with a virtual spring model about the knee DoF, supplying approximately 15 Nm assistive torque. The bandwidth of the system was tested by incrementally increasing the frequency which the participate would squat up and down until unable to keep up with the metronome, reaching up to 200 bpm. 
+<div style="display: flex; gap: 2%;">
+  <img src="Knee_exo_data.png" alt="Image 1" width="99%">
+</div>
