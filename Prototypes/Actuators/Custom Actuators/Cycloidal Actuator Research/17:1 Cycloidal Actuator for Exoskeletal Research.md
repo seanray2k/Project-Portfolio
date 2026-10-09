@@ -65,3 +65,5 @@ Leg extensions while sitting at 180 bpm and light jogging at 5 mph were also eva
 <div style="display: flex; gap: 2%;">
   <img src="Knee_exo_jog_data.png" alt="Image 1" width="99%">
 </div>
+
+The design and results of this first prototype provided the actuation foundation for the custom modular exoskeleton [Link](), providing assistance to the hips and knee DoFs when configured.
