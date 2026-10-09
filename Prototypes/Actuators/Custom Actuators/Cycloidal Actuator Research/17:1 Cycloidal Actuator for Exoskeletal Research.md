@@ -57,7 +57,7 @@ The device was subjected to an initial squating experiment with a virtual spring
 
 Leg extensions while sitting at 180 bpm and light jogging at 5 mph were also evaluated using the same virtual spring model. 
 <div style="display: flex; gap: 2%;">
-  <img src="Knee_exo_extensions.gif" alt="Image 1" width="63%">
+  <img src="Knee_exo_extensions.gif" alt="Image 1" width="70%">
   <img src="Knee_exo_jog.gif" alt="Image 1" width="27%">
 </div>
 
