@@ -36,6 +36,11 @@ The Link exoskeleton provided the opportunity to deploy an assistive device usin
 ### The Actuators
 The V2 brushless cycloid actuators are the next iteration in part of the design progression of the V1 prototype, explained in greater detail [here](https://github.com/seanray2k/Project-Portfolio/blob/main/Prototypes/Actuators/Custom%20Actuators/Cycloidal%20Actuator%20Research/17%3A1%20Cycloidal%20Actuator%20for%20Exoskeletal%20Research.md). Alterations transitioning into V2 included surface finishing and anodization, threading and profile modifications to the external housing for embedding with the rest of the mechanical structure, and changes to the applied tolerances to part drawings to improve transmission quality as well as eliminate unnecessary manufacturing costs.
 
+<div style="display: flex; gap: 2%;">
+  <img src="v2" alt="Image 1" width="49%">
+  <img src="v2" alt="Image 1" width="49%">
+</div>
+
 ### The Hips
 
 The linkage based design for the hip chain developed for the Eva Mk.2 device was readapted for the Link device. The mechanical behaviors were observed and various issues were acknowledged and needed revisiting. The hard stop on the second linkage engages firstly in the chain during external rotation, and motion is compensated for by the first linkage and the flexion/extension linkage. The first linkage hard stop engages 4 degrees after the second, accounting for the full true external range of rotation. Additionally, the hard stop range of the second linkage could not be expanded to be the same as the first (such that they would engage at the same time) due to the existing hard stop preventing the second linkage from reaching a singularity point and potentially collapse the hips inward towards the user. 
