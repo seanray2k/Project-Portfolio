@@ -1,9 +1,5 @@
 # Project-Portfolio
 
-<div style="display: flex; gap: 2%;">
-  <img src="IMG_2155.tiff" alt="Image 1" width="99%">
-</div>
-
 This repository contains various designs, prototypes, and visual concepts developed during my professional engineering career. These include actuation modules with various transmissions, previous design implementations, and overall robotics projects that I have had the pleasure of contributing towards.
 
 Project Overviews and Contributions:
