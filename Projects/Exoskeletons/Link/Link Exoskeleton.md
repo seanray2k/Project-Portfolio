@@ -37,8 +37,8 @@ The Link exoskeleton provided the opportunity to deploy an assistive device usin
 The V2 brushless cycloid actuators are the next iteration in part of the design progression of the V1 prototype, explained in greater detail [here](https://github.com/seanray2k/Project-Portfolio/blob/main/Prototypes/Actuators/Custom%20Actuators/Cycloidal%20Actuator%20Research/17%3A1%20Cycloidal%20Actuator%20for%20Exoskeletal%20Research.md). Alterations transitioning into V2 included surface finishing and anodization, threading and profile modifications to the external housing for embedding with the rest of the mechanical structure, and changes to the applied tolerances to part drawings to improve transmission quality as well as eliminate unnecessary manufacturing costs.
 
 <div style="display: flex; gap: 2%;">
-  <img src="v2" alt="Image 1" width="49%">
-  <img src="v2" alt="Image 1" width="49%">
+  <img src="V2_package.png" alt="Image 1" width="55%">
+  <img src="V2_controller.png" alt="Image 1" width="40%">
 </div>
 
 ### The Hips
