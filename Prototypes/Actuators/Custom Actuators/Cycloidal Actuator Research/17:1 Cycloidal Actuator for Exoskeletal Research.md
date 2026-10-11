@@ -3,6 +3,11 @@
 ## Introduction
 The knowledge gained from the development timeline for this actuator can be found through the publication of my thesis in part of receiving my MS degree in robotics engineering found [here](https://www.proquest.com/docview/3054735987?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
 
+<div style="display: flex; gap: 2%;">
+  <img src="V1_explode.png" alt="Image 1" width="49%">
+  <img src="V1_carrier.gif" alt="Image 1" width="36%">
+</div>
+
 ### Abstract
 The performance of commercial robotic actuators are reported to be efficient and offer the
 advantage of having a universal application-based design. However these advantages can fall short
